@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9c204cdba206e4f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ba8f12ad8eadd79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024d7027f0a7ba2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e59c1dc9807d6235",
+    "type": "split",
+    "children": [
+      {
+        "id": "256285a465bec1e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eeb37b4bde009df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "800e37a807c4e2bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54ab8a700cd3030a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f665f4a1ee97e460",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf4345c82528b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b8effdf36ba0676",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7605ff8c42dc64d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a9a71bc653b8e1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67f72e679ab888cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3eeb37b4bde009df",
+  "lastOpenFiles": [
+    "1. Theory/1. Domain Trusts Attacks.md",
+    "1. Theory/4. Concepts.md",
+    "2. Lab Walkthrough/1st Forest (techcorp.local)/1. us.techcorp.local/2. Kill Chain.md",
+    "1. Theory/3. Red Teaming Cheatsheet.md",
+    "1. Theory/domain-joined_logons.png",
+    "1. Theory/non-domain_joined_logons.png",
+    "1. Theory/authn_lsa_architecture_client.gif",
+    "1. Theory/nested_group_membership.jpg",
+    "2. Lab Walkthrough/3rd Forest (euvendor.local)/euvendor.local/2. Kill Chain.md",
+    "2. Lab Walkthrough/3rd Forest (euvendor.local)/euvendor.local/1. Domain Enumeration.md",
+    "2. Lab Walkthrough/6th Forest (production.local)/production.local/1. Domain Enumeration.md",
+    "2. Lab Walkthrough/6th Forest (production.local)/production.local/2. Kill Chain.md",
+    "2. Lab Walkthrough/2nd Forest (eu.local)/eu.local/2. Kill Chain.md",
+    "2. Lab Walkthrough/2nd Forest (eu.local)/eu.local/1. Domain Enumeration.md",
+    "2. Lab Walkthrough/7th Forest (db.local)/db.local/1. Domain Enumeration.md",
+    "2. Lab Walkthrough/8th Forest (dbvendor.local)/2. Kill Chain.md",
+    "2. Lab Walkthrough/7th Forest (db.local)/db.local/2. Kill Chain.md",
+    "2. Lab Walkthrough/1st Forest (techcorp.local)/1. us.techcorp.local/mgmtadmin_perms.png",
+    "2. Lab Walkthrough/1st Forest (techcorp.local)/1. us.techcorp.local/1. Domain Enumeration.md",
+    "1. Theory/2. MSSQL Attacks.md",
+    "3. Exam/machines.jpg",
+    "3. Exam/2. glacis.corp/2. Kill Chain.md",
+    "3. Exam/2. glacis.corp/1. Domain Enumeration.md",
+    "3. Exam/1. citadel.corp/2. Kill Chain.md",
+    "3. Exam/2. glacis.corp",
+    "3. Exam/1. citadel.corp/1. Domain Enumeration.md",
+    "3. Exam/1. citadel.corp",
+    "2. Lab Walkthrough/8th Forest (dbvendor.local)/1. Domain Enumeration.md",
+    "2. Lab Walkthrough/5th Forest (bastion.local)/bastion.local/2. Kill Chain.md",
+    "2. Lab Walkthrough/4th Forest (usvendor.local)/usvendor.local/2. Kill Chain.md",
+    "2. Lab Walkthrough/5th Forest (bastion.local)/bastion.local/1. Domain Enumeration.md",
+    "2. Lab Walkthrough/1st Forest (techcorp.local)/2. techcorp.local/2. Kill Chain.md",
+    "1. Theory/1. Domains, Domain Trees, and Forests.md",
+    "1. Theory/case_study.webp",
+    "1. Theory/trust_auth_flow.webp",
+    "2. Lab Walkthrough/8th Forest (dbvendor.local)",
+    "2. Lab Walkthrough/7th Forest (db.local)/db.local",
+    "2. Lab Walkthrough/7th Forest (db.local)",
+    "2. Lab Walkthrough/6th Forest (production.local)/production.local",
+    "2. Lab Walkthrough/6th Forest (production.local)",
+    "2. Lab Walkthrough/5th Forest (bastion.local)/bastion.local",
+    "2. Lab Walkthrough/5th Forest (bastion.local)",
+    "2. Lab Walkthrough/4th Forest (usvendor.local)/usvendor.local",
+    "2. Lab Walkthrough/1st Forest (techcorp.local)/1. us.techcorp.local/srvdba_perms.png",
+    "2. Lab Walkthrough/1st Forest (techcorp.local)/1. us.techcorp.local/provisioningsvc_perms.png"
+  ]
+}

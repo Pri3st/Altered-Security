@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "daceb9b29773e5c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1224f3442496d1bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e686ec1f9a43baee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Theory/Red Teaming Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1b498eba17fc539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Theory/2. ADCS Abuses/3. ESC/ESC1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26bf8bde429e2b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Exam/1. Domain Enumeration/1. AD Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "784597f5fbf1266d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Exam/2. Domain Exploitation/1. Kill Chain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "926daa08d32f0994",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f5e2cc6bb245dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5760d3ade83c88bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1e4dcae97b057f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb22c430f27bda63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2655d6e7097fe623",
+    "type": "split",
+    "children": [
+      {
+        "id": "addf4f1722fe7d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bed3c0a711daa61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Exam/2. Domain Exploitation/1. Kill Chain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24a051de01c810d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Exam/2. Domain Exploitation/1. Kill Chain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bb10626ba01e9be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f165a421fe713c3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Exam/2. Domain Exploitation/1. Kill Chain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "784597f5fbf1266d",
+  "lastOpenFiles": [
+    "3. Exam/1. Domain Enumeration/1. AD Enumeration.md",
+    "1. Theory/Red Teaming Cheatsheet.md",
+    "3. Exam/2. Domain Exploitation/1. Kill Chain.md",
+    "3. Exam/1. Domain Enumeration/2. ADCS Enumeration.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC1.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC4.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC5.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC6.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC7.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC8.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC9.md",
+    "1. Theory/2. ADCS Abuses/1. THEFT/THEFT4.md",
+    "1. Theory/2. ADCS Abuses/1. THEFT/THEFT1.md",
+    "2. Walkthrough/2. Kill Chain.md",
+    "1. Theory/2. ADCS Abuses/1. THEFT/THEFT3.md",
+    "1. Theory/2. ADCS Abuses/1. THEFT/THEFT2.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC3.md",
+    "1. Theory/2. ADCS Abuses/3. ESC/ESC2.md",
+    "1. Theory/2. ADCS Abuses/1. THEFT/THEFT5.md",
+    "1. Theory/1. ADCS 101/2. Intro to ADCS.md",
+    "1. Theory/1. ADCS 101/1. Intro to PKI.md",
+    "1. Theory/2. ADCS Abuses/4. DPERSIST/DPERSIST1.md",
+    "1. Theory/2. ADCS Abuses/4. DPERSIST/DPERSIST2.md",
+    "1. Theory/2. ADCS Abuses/4. DPERSIST/DPERSIST3.md",
+    "1. Theory/2. ADCS Abuses/2. PERSIST/PERSIST1.md",
+    "1. Theory/2. ADCS Abuses/2. PERSIST/PERSIST3.md",
+    "1. Theory/public_key_services.png",
+    "1. Theory/2. ADCS Abuses/3. ESC/Untitled",
+    "3. Exam/2. Domain Exploitation",
+    "3. Exam/1. Domain Enumeration",
+    "3. Exam",
+    "2. Walkthrough/Untitled",
+    "2. Walkthrough/webshell_upload.png",
+    "2. Walkthrough/webshell_upload 1.png",
+    "2. Walkthrough/webapp2.png",
+    "2. Walkthrough/webapp1.png",
+    "2. Walkthrough/vault_page.png",
+    "2. Walkthrough/upload_rubeus.png",
+    "2. Walkthrough/upload_rubeus 1.png",
+    "2. Walkthrough/upload_dir.png",
+    "2. Walkthrough/tgtdeleg.png",
+    "2. Walkthrough",
+    "1. Theory/1. ADCS 101",
+    "1. Theory/2. ADCS Abuses/4. DPERSIST",
+    "1. Theory/2. ADCS Abuses/3. ESC",
+    "1. Theory/2. ADCS Abuses/2. PERSIST"
+  ]
+}

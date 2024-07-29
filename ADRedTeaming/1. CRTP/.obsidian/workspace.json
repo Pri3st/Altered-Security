@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e1d8f83f69c2d001",
+    "type": "split",
+    "children": [
+      {
+        "id": "1328de9ab1f5f1ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e3661cd4b43683f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e75923cad8462ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5dbe8a1867102b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f5233c24092330",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3945d212bd571ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ebd58b706c74e9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "494268e5c9d2bc5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "ad63fef4a6a258ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2e95c7d5fd3956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f39206fd3916ab7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Exam/2. Domain Exploitation/2. Domain Domination PoC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e26de753511bbdf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Exam/2. Domain Exploitation/2. Domain Domination PoC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "837588126d8d7226",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de2299974383bbec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Exam/2. Domain Exploitation/2. Domain Domination PoC.md"
+              }
+            }
+          },
+          {
+            "id": "c6fa0b06c431386e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "37f5233c24092330",
+  "lastOpenFiles": [
+    "4. Exam/2. Domain Exploitation/parent_dump.png",
+    "4. Exam/2. Domain Exploitation/child_dump.png",
+    "4. Exam/2. Domain Exploitation/ea_poc.png",
+    "4. Exam/2. Domain Exploitation/da_poc.png",
+    "4. Exam/2. Domain Exploitation/dbserver31.png",
+    "4. Exam/2. Domain Exploitation/techsrv30_access.png",
+    "4. Exam/2. Domain Exploitation/mgmtsrv_access.png",
+    "4. Exam/2. Domain Exploitation/1. Kill Chain.md",
+    "4. Exam/2. Domain Exploitation/kcd.png",
+    "4. Exam/2. Domain Exploitation/2. Domain Domination PoC.md",
+    "4. Exam/2. Domain Exploitation/kcd_service.png",
+    "4. Exam/1. Domain Enumeration/1. Domain Recconnaisance.md",
+    "1. Theory/MSSQL Attacks.md",
+    "2. Windows Tools/Cheatsheet.md",
+    "2. Windows Tools/moneycorp.local/Enterprise Domination/Path 2 - Unconstrained Delegation from Child Domain.md",
+    "4. Exam/1. Domain Enumeration/dcsync.png",
+    "2. Windows Tools/moneycorp.local/Enterprise Domination/Path 6 - Abuse Trust Key.md",
+    "2. Windows Tools/moneycorp.local/Enterprise Domination/Path 1 - Abuse Parent-Child Domain Trust Relationship.md",
+    "2. Windows Tools/eu.eurocorp.local/Abusing Intra-Domain & Inter-Realm SQL Database Server Links.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/1. Domain Enumeration/1. Initial Enumeration.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/2. Domain Exploitation/2. Constrained Delegation using websvc.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/1. Domain Enumeration/2. Local Privilege Escalation.md",
+    "2. Windows Tools/us.dollarcorp.moneycorp.local/Domain Domination.md",
+    "4. Exam/3. Domain Persistene",
+    "Exam/tech.finance.corp/2. Domain Exploitation/Untitled",
+    "4. Exam/2. Domain Exploitation",
+    "Exam/tech.finance.corp/1. Domain Enumeration/Untitled",
+    "4. Exam/1. Domain Enumeration",
+    "4. Exam/tech.finance.corp",
+    "1. Theory/Kerberos Attacks/2. Domain Privilege Escalation.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/3. Domain Domination/Path 9 - Shadow Credentials.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/3. Domain Domination/Path 8 - RBCD.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/3. Domain Domination/Path 2 - KCD (DCORP-ADMINSVC).md",
+    "1. Theory/Kerberos Attacks/1. How does Kerberos work?.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/3. Domain Domination/Path 10 - S4U2Self Abuse.md",
+    "1. Theory/Kerberos Attacks/3. Domain Persistence.md",
+    "2. Windows Tools/dollarcorp.moneycorp.local/2. Domain Exploitation/1. ASREPRoast.md",
+    "3. Linux Tools/dollarcorp.moneycorp.local/2. Domain Exploitation/2. Constrained Delegation using websvc.md",
+    "3. Linux Tools/dollarcorp.moneycorp.local/2. Domain Exploitation/1. ASREPRoast.md",
+    "3. Linux Tools/dollarcorp.moneycorp.local/1. Domain Enumeration/2. Credential Spraying.md",
+    "3. Linux Tools/dollarcorp.moneycorp.local/1. Domain Enumeration/1. Initial Enumeration.md",
+    "1. Theory/Defense Evasion",
+    "4. Exam",
+    "1. Theory/Kerberos Attacks/kerberos_message_summary.webp",
+    "Theory/Kerberos Attacks/Domain Dominance - Persistence",
+    "Theory/Kerberos Attacks/Domain Privilege Escalation"
+  ]
+}

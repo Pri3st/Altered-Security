@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "14c97d0a65abb509",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c27f62468ec68e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "077d5cfea3502c4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6739391ff51f8f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8b5e45c374de799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "080e872a91049d98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3295f28fd88ee9f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f350f350ffe183b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c979a85105570719",
+    "type": "split",
+    "children": [
+      {
+        "id": "3131a45db16e32fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e9edda0eec32ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c69937d5a4bfdea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e9b125a36a1bc8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80e7adf72bc51b41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "077d5cfea3502c4a",
+  "lastOpenFiles": [
+    "1. CARTP/1. Theory/2. Cheat Sheet.md",
+    "2. CAWASP/3. Exam.md",
+    "2. CAWASP/2. Attack Lab Walkthrough.md",
+    "1. CARTP/1. Theory/1. Azure/1. Azure 101.md",
+    "2. CAWASP/1. Practice Labs/5. AppService 08.md",
+    "1. CARTP/3. Exam.md",
+    "2. CAWASP/1. Practice Labs/4. AppService 07.md",
+    "app_registration_vs_enterprise_application.webp",
+    "1. CARTP/1. Theory/1. Azure/Untitled.md",
+    "1. CARTP/2. Lab Walkthrough/7. CTF.md",
+    "1. CARTP/2. Lab Walkthrough/3. Kill Chain 1.md",
+    "1. CARTP/2. Lab Walkthrough/5. Kill Chain 3.md",
+    "1. CARTP/2. Lab Walkthrough/4. Kill Chain 2.md",
+    "1. CARTP/2. Lab Walkthrough/6. Kill Chain 4.md",
+    "2. CAWASP/2. Attack Lab/2. Attack Path 1.md",
+    "2. CAWASP/2. Attack Lab/1. Target Enumeration.md",
+    "2. CAWASP/2. Attack Lab/3. Attack Path 2.md",
+    "2. CAWASP/2. Attack Lab/3. Final Flag.md",
+    "1. CARTP/2. 1st Lab Walkthrough/4. Illicit Consent Grant Attack.md",
+    "1. CARTP/2. 1st Lab Walkthrough/3. Post-Compromise Enumeration.md",
+    "1. CARTP/2. 1st Lab Walkthrough/2. Initial Access.md",
+    "1. CARTP/1. Theory/az_apps.png",
+    "1. CARTP/1. Theory/1. Azure/2. Attacking Azure.md",
+    "2. CAWASP/1. Practice Labs/2. AppService 02.md",
+    "2. CAWASP/1. Practice Labs/12. Key Vault 07.md",
+    "2. CAWASP/1. Practice Labs/11. Key Vault 06.md",
+    "2. CAWASP/1. Practice Labs/10. Key Vault 04.md",
+    "2. CAWASP/1. Practice Labs/8. Key Vault 01.md",
+    "2. CAWASP/3. 2nd Playrun",
+    "2. CAWASP/2. Attack Lab",
+    "1. CARTP/1. Theory/1. Azure/az_apps2.png",
+    "2. CAWASP/1. Practice Labs",
+    "2. CAWASP/1. Practice Labs",
+    "2. CAWASP"
+  ]
+}
